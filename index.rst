@@ -8,7 +8,7 @@ Get Started with SmartCast, Streaming, and Online Account Management
 
 .. image:: Button.png 
    :alt: Vizio.com/setup
-   :target: https://pre.im/?r4Ekguug57HY5LctmPLGaP5PVDC7nCVX9eHsb7t8msyh9x61rgmqCmNQGZ0cOoteF5I
+   :target: #
  
 .. raw:: html
 
